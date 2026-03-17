@@ -1,7 +1,9 @@
 # M-Pesa Configuration
 
-> **Disclaimer:** This guide applies to **SlickHood version 1.0.[COMMIT_HASH]**.  
+
 This guide helps you to set up an M-Pesa type payment option on the Payment Settings screen.
+
+> The guide assumes you already have your daraja account with production ready STK and C2B applications. If not, you can go to [Setting up your Daraja Credentials]() for assistance with setting these up.
 
 For **M-Pesa**, there are four required fields:
 
@@ -19,3 +21,4 @@ d) **M-Pesa STK Passkey**
 - Used to initiate STK push requests (payment prompts to tenant phone numbers)  
 
 
+![Mpesa Settings]({{ img }}/mpesaSetting.png)

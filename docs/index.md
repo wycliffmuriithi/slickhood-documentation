@@ -1,22 +1,16 @@
-# SlickHood Wiki
-
-Welcome to the **SlickHood Documentation Wiki**.  
+**Wiki**.  
 This wiki provides guidance for **Landlords**, **Property Managers**, and **Administrators** on how to effectively use the platform.
-
----
-
-## 📌 Disclaimer
-
-> This documentation applies to **SlickHood version 1.0.[COMMIT_HASH]**  
-
+{% include disclaimer.md %}
 ---
 
 ## 📚 Documentation Index
 
 ### 💳 Payments
 
-- [[Configuring Custom Payment Options]]  
-  Learn how to set up M-Pesa, Flutterwave, and Manual payment methods for your properties.
+- [Configuring Custom Payment Options](payments/custom_payment_options.md) :
+  Learn how to set up mobile money and card payment methods for your properties.
+    - [M-Pesa Daraja Guide](payments/mpesa_configuration.md)
+    - [FlutterWave Setup Guide](payments/flutterwave_configuration.md)
 
 - [[Tenant Payment Flow]]  
   Understand how tenants initiate and complete payments across different channels.
