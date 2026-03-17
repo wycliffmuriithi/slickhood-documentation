@@ -49,6 +49,8 @@ On the **Payment Configuration** page, a landlord can add either **M-Pesa** or *
    > No one except the landlord can access the original values, not even the Superadmin  
 
 ![Add Payment Settings]({{ img }}/addPaymentSetting.png)
+
+
 ---
 
 ## 3. Verification Process

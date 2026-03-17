@@ -1,3 +1,3 @@
 version: "1.0.abc123"
-baseurl: "/slickhood-documentation"
-img: "/slickhood-documentation/assets/images"
+baseurl: "/slickhood-documentation/docs"
+img: "/slickhood-documentation/docs/assets/images"
